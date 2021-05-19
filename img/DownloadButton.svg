@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="DownloadButton.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 212.86894 39.050913"
+   height="147.59399"
+   width="804.54401">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="29"
+     inkscape:window-x="-9"
+     inkscape:window-height="1013"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="g871"
+     inkscape:document-units="mm"
+     inkscape:cy="66.929384"
+     inkscape:cx="384.15177"
+     inkscape:zoom="1.4"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       id="grid833"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       transform="matrix(1,0,0,0.99999544,52.75195,-65.140823)"
+       id="g885">
+      <rect
+         style="fill:#dd0031;fill-opacity:1;stroke-width:3.80867;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect873"
+         width="212.86893"
+         height="39.051178"
+         x="-52.751945"
+         y="65.141075"
+         ry="19.525589" />
+      <g
+         id="g871">
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-44.814407,73.078592)"
+           id="g855">
+          <path
+             style="fill:#202020;fill-opacity:1"
+             d="m 0,12.402 35.687,-4.8602 0.0156,34.423 -35.67,0.20313 z"
+             id="path835" />
+          <path
+             style="fill:#202020;fill-opacity:1"
+             d="m 39.996,6.9059 47.318,-6.906 v 41.527 l -47.318,0.37565 z"
+             id="path837" />
+          <path
+             style="fill:#202020;fill-opacity:1"
+             d="m 35.67,45.931 0.0277,34.453 -35.67,-4.9041 -0.002,-29.78 z"
+             id="path839" />
+          <path
+             style="fill:#202020;fill-opacity:1"
+             d="m 87.326,46.255 -0.0111,41.34 -47.318,-6.6784 -0.0663,-34.739 z"
+             id="path841" />
+        </g>
+        <text
+           id="text859"
+           y="95.042488"
+           x="-15.349764"
+           style="font-size:29.6452px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#202020;fill-opacity:1;stroke-width:0.741132"
+           xml:space="preserve"><tspan
+             style="fill:#202020;fill-opacity:1;stroke-width:0.741132"
+             y="95.042488"
+             x="-15.349764"
+             id="tspan857"
+             sodipodi:role="line">DOWNLOAD</tspan></text>
+        <rect
+           y="68.915298"
+           x="-17.539598"
+           height="31.50275"
+           width="0.39164791"
+           id="rect861"
+           style="fill:#202020;fill-opacity:1;stroke-width:0.349288;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill" />
+      </g>
+    </g>
+  </g>
+</svg>

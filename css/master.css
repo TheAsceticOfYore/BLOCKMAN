@@ -1,0 +1,411 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-color: #202020;
+}
+
+@font-face{
+  font-family: "Inter-ExtraLight";
+  src: url("../fonts/Inter-ExtraLight.ttf");
+}
+
+@font-face{
+  font-family: "Inter-Medium";
+  src: url("../fonts/Inter-Medium.ttf");
+}
+
+/* TOPBAR */
+header{
+  display: flex;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 3px;
+  border-bottom-style: solid;
+  border-color: #DD0031;
+  background-color: #121212;
+  box-shadow: 0px 0px 32px 0px #DD0031;
+}
+
+.BLOCKMAN_Logo_topbar{
+  padding: 4px;
+  padding-top: 6px;
+  margin: 0;
+  display: inline-block;
+  height: auto;
+  width: 58px;
+  max-width: 100%;
+  background-color: #121212;
+}
+
+.TheAsceticOfYore_Logo{
+  padding: 4px;
+  padding-top: 6px;
+  margin: 0;
+  display: inline-block;
+  height: auto;
+  width: 58px;
+  max-width: 100%;
+  background-color: #121212;
+}
+
+.TheAsceticOfYore_Logo:hover{
+  /*opacity: 0.3;*/
+  background-color: #EDEDED;
+  filter: invert(1);
+}
+
+.Table1{
+  padding: 0;
+  margin: 0;
+  width: 30%;
+  border: 0px;
+  border-style: solid;
+  border-color: #fcec03;
+}
+
+.Table2{
+  padding: 0;
+  margin: 0;
+  width: 30%;
+  border: 0px;
+  border-style: solid;
+  border-color: #00ff66;
+}
+
+.Table2 p{
+  text-align: center;
+  background-color: #121212;
+}
+
+.Table3{
+  padding: 0;
+  margin: 0;
+  width: 30%;
+  border: 0px;
+  border-style: solid;
+  border-color: #fff;
+}
+
+.Table3 p{
+  text-align: right;
+  padding-right: 1%;
+  background-color: #121212;
+}
+/* TOPBAR */
+
+
+
+/*FIRST PARAGRAPH*/
+.FirstParagraph{
+  padding: 0;
+  margin: 0;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0px;
+  border-style: solid;
+  border-color: #fff;
+}
+
+.FirstParagraph h1{
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  color: #fff;
+  font-family: Inter-Medium;
+  font-weight: 600;
+  font-size: 42px;
+  letter-spacing: 0.05em;
+  padding-top: 1%;
+}
+
+.FirstParagraph h2{
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  color: #fff;
+  font-family: Inter-ExtraLight;
+  font-weight: 100;
+  font-size: 24px;
+  padding-top: 1%;
+}
+/*FIRST PARAGRAPH*/
+
+
+
+/*SHOWCASE IMAGE*/
+.ShowcaseImage{
+  padding: 0;
+  margin: 0;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0px;
+  border-style: solid;
+  border-color: #fff;
+}
+
+.ShowcaseImage p{
+  padding: 0;
+  margin: 0;
+  padding-top: 1.5%;
+  text-align: center;
+}
+
+.MainShowcaseImage{
+  padding: 3px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  border: 3px;
+  border-style: solid;
+  border-radius: 15px;
+  border-color: #DD0031;
+}
+/*SHOWCASE IMAGE*/
+
+
+/*HORIZONTAL LINE*/
+.HorizontalLine{
+  padding: 0;
+  margin: 0;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  background-color: #DD0031;
+  height: 1px;
+}
+/*HORIZONTAL LINE*/
+
+
+
+/*SECOND PARAGRAPH*/
+.SecondParagraph{
+  padding: 0;
+  margin: 0;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0px;
+  border-style: solid;
+  border-color: #fff;
+}
+
+.SecondParagraph h1{
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  color: #fff;
+  font-family: Inter-Medium;
+  font-weight: 600;
+  font-size: 36px;
+  letter-spacing: 0.04em;
+}
+
+.SecondParagraph h2{
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  color: #fff;
+  font-family: Inter-ExtraLight;
+  font-weight: 100;
+  font-size: 24px;
+  padding-top: 1%;
+}
+/*SECOND PARAGRAPH*/
+
+
+
+/*FEATURES BLOCK*/
+.FuturesBlock{
+  padding: 0;
+  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  border: 0px;
+  border-style: solid;
+  border-color: #DD0031;
+}
+
+.FuturesBlock p{
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  padding-top: 1%;
+}
+
+.FuturesIcons{
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+  height: auto;
+  width: 95%;
+  max-width: 100%;
+}
+/*FEATURES BLOCK*/
+
+
+
+/*BOTTOM LOGO*/
+.BottomLogo{
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  border: 0px;
+  border-style: solid;
+  border-color: #fff;
+}
+.BottomLogo p{
+  padding: 0;
+  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  border: 0px;
+  border-style: solid;
+  border-color: #DD0031;
+  text-align: center;
+  padding-top: 1%;
+}
+
+.BottomLogoIcon{
+  padding: 0;
+  margin: 0;
+  height: auto;
+  width: 15%;
+  max-width: 100%;
+}
+/*BOTTOM LOGO*/
+
+
+
+/*BOTTOM APP NAME*/
+.BottomAppName{
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  border: 0px;
+  border-style: solid;
+  border-color: #fff;
+}
+
+.BottomAppName h1{
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  color: #fff;
+  font-family: Inter-Medium;
+  font-weight: 600;
+  font-size: 3vw;
+  letter-spacing: 0.04em;
+  padding-top: .5%;
+  padding-bottom: .5%;
+}
+
+.BottomAppName h2{
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  color: #fff;
+  font-family: Inter-ExtraLight;
+  font-weight: 600;
+  font-size: 2vw;
+  padding-top: .5%;
+  padding-bottom: .5%;
+}
+
+.BottomAppName h3{
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  color: #fff;
+  font-family: Inter-Medium;
+  font-weight: 600;
+  font-size: 3vw;
+  letter-spacing: 0.04em;
+  padding-top: .5%;
+  padding-bottom: .5%;
+}
+
+.BottomAppName h4{
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  color: #fff;
+  font-family: Inter-ExtraLight;
+  font-weight: 600;
+  font-size: 2vw;
+  padding-top: .5%;
+  padding-bottom: .5%;
+}
+/*BOTTOM APP NAME*/
+
+
+
+/*FOOTER*/
+footer{
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  border: 0px;
+  border-style: solid;
+  border-color: #fff;
+  background-color: #121212;
+}
+
+footer p{
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  color: #fff;
+  font-family: Inter-ExtraLight;
+  font-weight: 600;
+  font-size: 1vw;
+  padding-top: .5%;
+  padding-bottom: .5%;
+  border-top: 3px;
+  border-top-style: solid;
+  border-color: #DD0031;
+  background-color: #121212;
+  box-shadow: 32px 0px 0px 0px #DD0031;
+  margin-top: 1%;
+}
+/*FOOTER*/
+
+
+
+/*DOWNLOAD BUTTON*/
+.DownloadButton{
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  border: 0px;
+  border-style: solid;
+  border-color: #fff;
+  background-color: #121212;
+  margin-top: 1.5%;
+}
+
+.DownloadButton p{
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.DownloadButtonImage{
+  padding: 0;
+  margin: 0;
+  height: auto;
+  width: 15%;
+  max-width: 100%;
+}
+
+.DownloadButtonImage:hover{
+  cursor: pointer;
+}
